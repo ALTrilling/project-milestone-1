@@ -1,8 +1,7 @@
 # Title:
 Booklens (TBD)
 # Description:
-A webapp that could be used for finding books that people find interesting.
-So people would point their phone at their bookshelf, the camera would get the names of the books (using text recognition), look them up, find their characteristics (like genre and age range), and then use a model to find other books that people would be interested in based on the books that they have.
+A webapp that could be used for finding books that people find interesting. So people would upload photos of their bookshelf, and the app would then find the names of the books (using text recognition) look them up, and then use a model to determine that other books that people would be interested in based on the books that they have. It would then redirect them to a page with a list of those books, as while as some other data, such as the book covers.
 # Member Names: 
 - Adrian Trilling
 # Dataset: 
